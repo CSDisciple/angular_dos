@@ -1,7 +1,7 @@
 # MyApp
 
 
-##Purpose
+### Purpose
 One way data binding, Two way data binding, style binding,  ng-template, class binding, angular http client, and deployment.
 
 
